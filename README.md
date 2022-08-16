@@ -12,7 +12,7 @@ When a user clicks on any thumbnail, take them to a new page where they can actu
 Make a GET request to fetch the most popular videos in India and show the data accordingly.
 Use ES6 throughout 
 
-* YouTube App[Live Demo](https://lucky-mousse-e5b6e9.netlify.app/)
+* [YouTube App](https://lucky-mousse-e5b6e9.netlify.app/)
 
 ## Here are some screenshots -
 
