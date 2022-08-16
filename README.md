@@ -10,10 +10,8 @@ When a user clicks on any thumbnail, take them to a new page where they can actu
 * YOUTUBE APP II 
 * On the homepage of your YT app, the default videos should be the most popular videos in India.
 Make a GET request to fetch the most popular videos in India and show the data accordingly.
-Use ES6 throughout.
-
-* Netlify Link for Youtube Mini App I -https://lucky-mousse-e5b6e9.netlify.app/
-* Netlify Link for Youtube App II -https://lucky-mousse-e5b6e9.netlify.app/
+Use ES6 throughout 
+* Live Demo  https://lucky-mousse-e5b6e9.netlify.app/
 ## Here are some screenshots -
 
 ![landing](https://snipboard.io/6IjYgb.jpg)
